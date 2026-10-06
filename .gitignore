@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+Debug/
+Release/
+x64/
+*.pdb
+*.ilk
+*.exe
+*.obj
+*.o
+
+# IDE
+*.sln.DotSettings
+.vscode/
+*.code-workspace
+nul
+# Build
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.cmd
+
+# Logs
+*.log
+C:\ProgramData\AntiRansomEx\service.log
