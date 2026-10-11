@@ -2,11 +2,13 @@
 
 ## [+] Usage
 
-PS > C:\ Findme.exe <target_dir_to_search> <filename>
+PS > C:\ Findme.exe <target_dir_to_search>  <filename>
 
 ## Output
 
 [+] Found : <target_dir>
+
 [*] Files scanned       : n
+
 [*] Matches              : j
 
