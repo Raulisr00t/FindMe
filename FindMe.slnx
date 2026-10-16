@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="FindMe/FindMe.vcxproj" />
+  <Project Path="FindMe/FindMe.vcxproj" Id="394d19dc-6fcd-4ed6-b7a0-f97f616a6705" />
 </Solution>
